@@ -21,7 +21,6 @@
 * HTML
 * CSS, SCSS
 * JavaScript
-* TypeScript
 * jQuery
 * RWD
 * Bootstrap 5
